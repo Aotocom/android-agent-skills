@@ -1,0 +1,9 @@
+---
+description: Handle navigation graphs, back stack behavior, app links, intents, and destination ownership for Android apps.
+alwaysApply: false
+---
+
+# android-navigation-deeplinks
+
+Activate when the request is about android navigation graph, deep link into android app, back stack issue in compose nav.
+Read `skills/android-navigation-deeplinks/SKILL.md` for the canonical workflow.

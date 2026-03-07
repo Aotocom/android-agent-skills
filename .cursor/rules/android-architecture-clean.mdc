@@ -1,0 +1,9 @@
+---
+description: Apply clean architecture boundaries, use cases, repositories, and lifecycle-aware presentation models in Android projects.
+alwaysApply: false
+---
+
+# android-architecture-clean
+
+Activate when the request is about clean architecture in android, split use cases and repositories, untangle presentation and data layer.
+Read `skills/android-architecture-clean/SKILL.md` for the canonical workflow.

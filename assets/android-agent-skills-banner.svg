@@ -1,0 +1,26 @@
+<svg width="1280" height="640" viewBox="0 0 1280 640" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1280" height="640" rx="32" fill="#0B1F1A"/>
+  <rect x="48" y="48" width="1184" height="544" rx="28" fill="url(#paint0_linear)" stroke="#4CE0B3" stroke-opacity="0.35"/>
+  <circle cx="1038" cy="176" r="136" fill="#4CE0B3" fill-opacity="0.08"/>
+  <circle cx="1128" cy="476" r="160" fill="#F9D65C" fill-opacity="0.08"/>
+  <path d="M126 158H436" stroke="#4CE0B3" stroke-width="14" stroke-linecap="round"/>
+  <path d="M126 214H344" stroke="#F9D65C" stroke-width="14" stroke-linecap="round"/>
+  <text x="120" y="316" fill="#F5FFF9" font-size="64" font-family="'Avenir Next', 'Segoe UI', sans-serif" font-weight="700">android-agent-skills</text>
+  <text x="120" y="380" fill="#B6D6CB" font-size="28" font-family="'Avenir Next', 'Segoe UI', sans-serif">29 Android-native skills for Kotlin, Compose, and XML</text>
+  <text x="120" y="416" fill="#B6D6CB" font-size="28" font-family="'Avenir Next', 'Segoe UI', sans-serif">testing, release work, and tough legacy upgrades</text>
+  <rect x="120" y="458" width="304" height="66" rx="22" fill="#4CE0B3"/>
+  <text x="272" y="501" text-anchor="middle" fill="#0B1F1A" font-size="28" font-family="'Avenir Next', 'Segoe UI', sans-serif" font-weight="700">Skills-first</text>
+  <rect x="446" y="458" width="404" height="66" rx="22" fill="#F9D65C"/>
+  <text x="648" y="501" text-anchor="middle" fill="#0B1F1A" font-size="28" font-family="'Avenir Next', 'Segoe UI', sans-serif" font-weight="700">Cross-agent ready</text>
+  <rect x="884" y="128" width="280" height="182" rx="26" fill="#0F2A22" stroke="#4CE0B3" stroke-opacity="0.35"/>
+  <text x="918" y="180" fill="#F5FFF9" font-size="25" font-family="'Avenir Next', 'Segoe UI', sans-serif" font-weight="700">Legacy rescue</text>
+  <text x="918" y="220" fill="#B6D6CB" font-size="18" font-family="'Avenir Next', 'Segoe UI', sans-serif">AGP Kotlin AndroidX</text>
+  <text x="918" y="250" fill="#B6D6CB" font-size="18" font-family="'Avenir Next', 'Segoe UI', sans-serif">16 KB alignment</text>
+  <text x="918" y="280" fill="#B6D6CB" font-size="18" font-family="'Avenir Next', 'Segoe UI', sans-serif">Deprecated APIs and classes</text>
+  <defs>
+    <linearGradient id="paint0_linear" x1="48" y1="48" x2="1232" y2="592" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#103127"/>
+      <stop offset="1" stop-color="#0D2620"/>
+    </linearGradient>
+  </defs>
+</svg>

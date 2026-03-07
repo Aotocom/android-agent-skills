@@ -1,0 +1,9 @@
+---
+description: Build Android networking stacks with Retrofit, OkHttp, interceptors, API contracts, and resilient error handling.
+alwaysApply: false
+---
+
+# android-networking-retrofit-okhttp
+
+Activate when the request is about retrofit android setup, okhttp interceptor android, api error mapping android.
+Read `skills/android-networking-retrofit-okhttp/SKILL.md` for the canonical workflow.

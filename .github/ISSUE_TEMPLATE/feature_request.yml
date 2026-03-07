@@ -1,0 +1,28 @@
+name: Feature request
+description: Propose a new Android skill, stronger automation, or repo workflow improvement.
+title: "[feature] "
+labels:
+  - enhancement
+body:
+  - type: textarea
+    id: problem
+    attributes:
+      label: Problem to solve
+      description: Explain the Android workflow gap this repo should cover.
+      placeholder: There is no skill for baseline profiles and startup benchmarking across Compose and Views.
+    validations:
+      required: true
+  - type: textarea
+    id: proposal
+    attributes:
+      label: Proposed solution
+      description: Describe the skill or repo change you want.
+      placeholder: Add a skill with official Macrobenchmark references, runnable fixture commands, and CI checks.
+    validations:
+      required: true
+  - type: textarea
+    id: impact
+    attributes:
+      label: Why it matters
+      description: Explain who benefits and what daily Android work this unlocks.
+

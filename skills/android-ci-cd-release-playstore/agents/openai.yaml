@@ -1,0 +1,4 @@
+interface:
+  display_name: "Android CI CD Release PlayStore"
+  short_description: "Automate Android CI, versioning, signing boundaries, release channels, and Play-ready delivery workflows"
+  default_prompt: "Use $android-ci-cd-release-playstore when the request is about automate Android CI, versioning, signing boundaries, release channels, and Play-ready delivery workflows."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Android Local Persistence DataStore"
+  short_description: "Persist lightweight user and app preferences with DataStore, schema-safe models, and migration-aware defaults"
+  default_prompt: "Use $android-local-persistence-datastore when the request is about persist lightweight user and app preferences with DataStore, schema-safe models, and migration-aware defaults."

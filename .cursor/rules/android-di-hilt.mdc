@@ -1,0 +1,9 @@
+---
+description: Wire Android dependency injection with Hilt, scopes, testing overrides, and module ownership boundaries.
+alwaysApply: false
+---
+
+# android-di-hilt
+
+Activate when the request is about android hilt setup, inject viewmodel repository hilt, scope dependency in android.
+Read `skills/android-di-hilt/SKILL.md` for the canonical workflow.

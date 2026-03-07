@@ -1,0 +1,9 @@
+---
+description: Profile and improve Compose recomposition, layout, scrolling, startup, and rendering performance in Android apps.
+alwaysApply: false
+---
+
+# android-compose-performance
+
+Activate when the request is about compose performance issue, recomposition too much android, slow lazycolumn compose.
+Read `skills/android-compose-performance/SKILL.md` for the canonical workflow.

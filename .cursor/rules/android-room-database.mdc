@@ -1,0 +1,9 @@
+---
+description: Model Room entities, DAOs, transactions, migrations, schema exports, and test-safe local persistence.
+alwaysApply: false
+---
+
+# android-room-database
+
+Activate when the request is about room database android, dao query migration android, room schema export.
+Read `skills/android-room-database/SKILL.md` for the canonical workflow.

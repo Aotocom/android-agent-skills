@@ -1,0 +1,15 @@
+.DS_Store
+.idea/
+.gradle/
+build/
+dist/
+local.properties
+*.iml
+**/build/
+**/.gradle/
+.env
+*.keystore
+*.jks
+dist/
+benchmarks/last_eval.json
+.preview/

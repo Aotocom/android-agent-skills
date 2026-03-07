@@ -1,0 +1,290 @@
+{"expected": "android-kotlin-core", "prompt": "I need help with kotlin cleanup in android app in a large Android codebase."}
+{"expected": "android-kotlin-core", "prompt": "Can you handle convert verbose android java-style kotlin for my mobile app?"}
+{"expected": "android-kotlin-core", "prompt": "Please review sealed classes for ui state and give me the right Android workflow."}
+{"expected": "android-kotlin-core", "prompt": "My team needs extension functions for android feature before release."}
+{"expected": "android-kotlin-core", "prompt": "We are blocked on improve kotlin readability in android module and need a deterministic fix."}
+{"expected": "android-kotlin-core", "prompt": "Use the android-kotlin-core skill for this Android request."}
+{"expected": "android-kotlin-core", "prompt": "This request is about use kotlin idioms safely in android apps, including nullability, data classes, sealed types, extension functions, and collection pipelines."}
+{"expected": "android-kotlin-core", "prompt": "What is the best way to approach kotlin cleanup in android app without drifting into neighboring skills?"}
+{"expected": "android-kotlin-core", "prompt": "I have a messy Android project and need help with convert verbose android java-style kotlin today."}
+{"expected": "android-kotlin-core", "prompt": "Give me the Android-specific checklist for sealed classes for ui state."}
+{"expected": "android-gradle-build-logic", "prompt": "I need help with android gradle plugin setup in a large Android codebase."}
+{"expected": "android-gradle-build-logic", "prompt": "Can you handle fix build logic for android modules for my mobile app?"}
+{"expected": "android-gradle-build-logic", "prompt": "Please review version catalog for android repo and give me the right Android workflow."}
+{"expected": "android-gradle-build-logic", "prompt": "My team needs gradle convention cleanup for android before release."}
+{"expected": "android-gradle-build-logic", "prompt": "We are blocked on agp build logic change and need a deterministic fix."}
+{"expected": "android-gradle-build-logic", "prompt": "Use the android-gradle-build-logic skill for this Android request."}
+{"expected": "android-gradle-build-logic", "prompt": "This request is about shape android build logic with gradle, version catalogs, plugins, convention patterns, and toolchain compatibility."}
+{"expected": "android-gradle-build-logic", "prompt": "What is the best way to approach android gradle plugin setup without drifting into neighboring skills?"}
+{"expected": "android-gradle-build-logic", "prompt": "I have a messy Android project and need help with fix build logic for android modules today."}
+{"expected": "android-gradle-build-logic", "prompt": "Give me the Android-specific checklist for version catalog for android repo."}
+{"expected": "android-architecture-clean", "prompt": "I need help with clean architecture in android in a large Android codebase."}
+{"expected": "android-architecture-clean", "prompt": "Can you handle split use cases and repositories for my mobile app?"}
+{"expected": "android-architecture-clean", "prompt": "Please review untangle presentation and data layer and give me the right Android workflow."}
+{"expected": "android-architecture-clean", "prompt": "My team needs android architecture cleanup before release."}
+{"expected": "android-architecture-clean", "prompt": "We are blocked on mvvm to cleaner boundaries and need a deterministic fix."}
+{"expected": "android-architecture-clean", "prompt": "Use the android-architecture-clean skill for this Android request."}
+{"expected": "android-architecture-clean", "prompt": "This request is about apply clean architecture boundaries, use cases, repositories, and lifecycle-aware presentation models in android projects."}
+{"expected": "android-architecture-clean", "prompt": "What is the best way to approach clean architecture in android without drifting into neighboring skills?"}
+{"expected": "android-architecture-clean", "prompt": "I have a messy Android project and need help with split use cases and repositories today."}
+{"expected": "android-architecture-clean", "prompt": "Give me the Android-specific checklist for untangle presentation and data layer."}
+{"expected": "android-modularization", "prompt": "I need help with android module split in a large Android codebase."}
+{"expected": "android-modularization", "prompt": "Can you handle feature modularization in android for my mobile app?"}
+{"expected": "android-modularization", "prompt": "Please review break cyclic module dependency and give me the right Android workflow."}
+{"expected": "android-modularization", "prompt": "My team needs android app into modules before release."}
+{"expected": "android-modularization", "prompt": "We are blocked on core ui data domain modules and need a deterministic fix."}
+{"expected": "android-modularization", "prompt": "Use the android-modularization skill for this Android request."}
+{"expected": "android-modularization", "prompt": "This request is about design android repositories with feature, core, and build-logic modules that scale without cyclic dependencies."}
+{"expected": "android-modularization", "prompt": "What is the best way to approach android module split without drifting into neighboring skills?"}
+{"expected": "android-modularization", "prompt": "I have a messy Android project and need help with feature modularization in android today."}
+{"expected": "android-modularization", "prompt": "Give me the Android-specific checklist for break cyclic module dependency."}
+{"expected": "android-di-hilt", "prompt": "I need help with android hilt setup in a large Android codebase."}
+{"expected": "android-di-hilt", "prompt": "Can you handle inject viewmodel repository hilt for my mobile app?"}
+{"expected": "android-di-hilt", "prompt": "Please review scope dependency in android and give me the right Android workflow."}
+{"expected": "android-di-hilt", "prompt": "My team needs replace manual service locator before release."}
+{"expected": "android-di-hilt", "prompt": "We are blocked on hilt testing override and need a deterministic fix."}
+{"expected": "android-di-hilt", "prompt": "Use the android-di-hilt skill for this Android request."}
+{"expected": "android-di-hilt", "prompt": "This request is about wire android dependency injection with hilt, scopes, testing overrides, and module ownership boundaries."}
+{"expected": "android-di-hilt", "prompt": "What is the best way to approach android hilt setup without drifting into neighboring skills?"}
+{"expected": "android-di-hilt", "prompt": "I have a messy Android project and need help with inject viewmodel repository hilt today."}
+{"expected": "android-di-hilt", "prompt": "Give me the Android-specific checklist for scope dependency in android."}
+{"expected": "android-coroutines-flow", "prompt": "I need help with android flow collection in a large Android codebase."}
+{"expected": "android-coroutines-flow", "prompt": "Can you handle fix coroutine scope in android for my mobile app?"}
+{"expected": "android-coroutines-flow", "prompt": "Please review structured concurrency in viewmodel and give me the right Android workflow."}
+{"expected": "android-coroutines-flow", "prompt": "My team needs flow retry caching android before release."}
+{"expected": "android-coroutines-flow", "prompt": "We are blocked on dispatcher cleanup in android and need a deterministic fix."}
+{"expected": "android-coroutines-flow", "prompt": "Use the android-coroutines-flow skill for this Android request."}
+{"expected": "android-coroutines-flow", "prompt": "This request is about use coroutines, flow, structured concurrency, dispatchers, and cancellation-safe android async pipelines."}
+{"expected": "android-coroutines-flow", "prompt": "What is the best way to approach android flow collection without drifting into neighboring skills?"}
+{"expected": "android-coroutines-flow", "prompt": "I have a messy Android project and need help with fix coroutine scope in android today."}
+{"expected": "android-coroutines-flow", "prompt": "Give me the Android-specific checklist for structured concurrency in viewmodel."}
+{"expected": "android-state-management", "prompt": "I need help with android ui state reducer in a large Android codebase."}
+{"expected": "android-state-management", "prompt": "Can you handle state management in compose or xml android for my mobile app?"}
+{"expected": "android-state-management", "prompt": "Please review one-off events in android screen and give me the right Android workflow."}
+{"expected": "android-state-management", "prompt": "My team needs loading empty error state android before release."}
+{"expected": "android-state-management", "prompt": "We are blocked on viewmodel state container and need a deterministic fix."}
+{"expected": "android-state-management", "prompt": "Use the android-state-management skill for this Android request."}
+{"expected": "android-state-management", "prompt": "This request is about model screen state, events, reducers, and side effects for android uis with predictable lifecycle-aware ownership."}
+{"expected": "android-state-management", "prompt": "What is the best way to approach android ui state reducer without drifting into neighboring skills?"}
+{"expected": "android-state-management", "prompt": "I have a messy Android project and need help with state management in compose or xml android today."}
+{"expected": "android-state-management", "prompt": "Give me the Android-specific checklist for one-off events in android screen."}
+{"expected": "android-navigation-deeplinks", "prompt": "I need help with android navigation graph in a large Android codebase."}
+{"expected": "android-navigation-deeplinks", "prompt": "Can you handle deep link into android app for my mobile app?"}
+{"expected": "android-navigation-deeplinks", "prompt": "Please review back stack issue in compose nav and give me the right Android workflow."}
+{"expected": "android-navigation-deeplinks", "prompt": "My team needs intent route android screen before release."}
+{"expected": "android-navigation-deeplinks", "prompt": "We are blocked on app links setup android and need a deterministic fix."}
+{"expected": "android-navigation-deeplinks", "prompt": "Use the android-navigation-deeplinks skill for this Android request."}
+{"expected": "android-navigation-deeplinks", "prompt": "This request is about handle navigation graphs, back stack behavior, app links, intents, and destination ownership for android apps."}
+{"expected": "android-navigation-deeplinks", "prompt": "What is the best way to approach android navigation graph without drifting into neighboring skills?"}
+{"expected": "android-navigation-deeplinks", "prompt": "I have a messy Android project and need help with deep link into android app today."}
+{"expected": "android-navigation-deeplinks", "prompt": "Give me the Android-specific checklist for back stack issue in compose nav."}
+{"expected": "android-permissions-activity-results", "prompt": "I need help with android permission request flow in a large Android codebase."}
+{"expected": "android-permissions-activity-results", "prompt": "Can you handle activity result api android for my mobile app?"}
+{"expected": "android-permissions-activity-results", "prompt": "Please review camera permission in android app and give me the right Android workflow."}
+{"expected": "android-permissions-activity-results", "prompt": "My team needs photo picker or permission android before release."}
+{"expected": "android-permissions-activity-results", "prompt": "We are blocked on permission denied recovery and need a deterministic fix."}
+{"expected": "android-permissions-activity-results", "prompt": "Use the android-permissions-activity-results skill for this Android request."}
+{"expected": "android-permissions-activity-results", "prompt": "This request is about use modern permission requests, activity result apis, and capability-gated ux in android flows."}
+{"expected": "android-permissions-activity-results", "prompt": "What is the best way to approach android permission request flow without drifting into neighboring skills?"}
+{"expected": "android-permissions-activity-results", "prompt": "I have a messy Android project and need help with activity result api android today."}
+{"expected": "android-permissions-activity-results", "prompt": "Give me the Android-specific checklist for camera permission in android app."}
+{"expected": "android-ui-states-validation", "prompt": "I need help with validate android ui states in a large Android codebase."}
+{"expected": "android-ui-states-validation", "prompt": "Can you handle check loading empty error flow android for my mobile app?"}
+{"expected": "android-ui-states-validation", "prompt": "Please review edge cases in android screen and give me the right Android workflow."}
+{"expected": "android-ui-states-validation", "prompt": "My team needs android screen regression review before release."}
+{"expected": "android-ui-states-validation", "prompt": "We are blocked on state coverage before release and need a deterministic fix."}
+{"expected": "android-ui-states-validation", "prompt": "Use the android-ui-states-validation skill for this Android request."}
+{"expected": "android-ui-states-validation", "prompt": "This request is about review android ui flows for empty, loading, error, offline, and edge-case behavior before release."}
+{"expected": "android-ui-states-validation", "prompt": "What is the best way to approach validate android ui states without drifting into neighboring skills?"}
+{"expected": "android-ui-states-validation", "prompt": "I have a messy Android project and need help with check loading empty error flow android today."}
+{"expected": "android-ui-states-validation", "prompt": "Give me the Android-specific checklist for edge cases in android screen."}
+{"expected": "android-compose-foundations", "prompt": "I need help with jetpack compose screen in a large Android codebase."}
+{"expected": "android-compose-foundations", "prompt": "Can you handle compose layout in android for my mobile app?"}
+{"expected": "android-compose-foundations", "prompt": "Please review modifier cleanup compose and give me the right Android workflow."}
+{"expected": "android-compose-foundations", "prompt": "My team needs android compose component structure before release."}
+{"expected": "android-compose-foundations", "prompt": "We are blocked on compose foundation best practices and need a deterministic fix."}
+{"expected": "android-compose-foundations", "prompt": "Use the android-compose-foundations skill for this Android request."}
+{"expected": "android-compose-foundations", "prompt": "This request is about build android ui with jetpack compose foundations, layouts, modifiers, theming, and stable component structure."}
+{"expected": "android-compose-foundations", "prompt": "What is the best way to approach jetpack compose screen without drifting into neighboring skills?"}
+{"expected": "android-compose-foundations", "prompt": "I have a messy Android project and need help with compose layout in android today."}
+{"expected": "android-compose-foundations", "prompt": "Give me the Android-specific checklist for modifier cleanup compose."}
+{"expected": "android-compose-state-effects", "prompt": "I need help with compose side effect problem in a large Android codebase."}
+{"expected": "android-compose-state-effects", "prompt": "Can you handle remember vs derivedstateof for my mobile app?"}
+{"expected": "android-compose-state-effects", "prompt": "Please review collect flow in compose screen and give me the right Android workflow."}
+{"expected": "android-compose-state-effects", "prompt": "My team needs launchedeffect issue android before release."}
+{"expected": "android-compose-state-effects", "prompt": "We are blocked on compose state hoisting and need a deterministic fix."}
+{"expected": "android-compose-state-effects", "prompt": "Use the android-compose-state-effects skill for this Android request."}
+{"expected": "android-compose-state-effects", "prompt": "This request is about manage compose state, remember apis, side effects, snapshots, and lifecycle-aware collection without leaks or loops."}
+{"expected": "android-compose-state-effects", "prompt": "What is the best way to approach compose side effect problem without drifting into neighboring skills?"}
+{"expected": "android-compose-state-effects", "prompt": "I have a messy Android project and need help with remember vs derivedstateof today."}
+{"expected": "android-compose-state-effects", "prompt": "Give me the Android-specific checklist for collect flow in compose screen."}
+{"expected": "android-material3-design-system", "prompt": "I need help with material3 theme android in a large Android codebase."}
+{"expected": "android-material3-design-system", "prompt": "Can you handle design system tokens compose for my mobile app?"}
+{"expected": "android-material3-design-system", "prompt": "Please review android typography color system and give me the right Android workflow."}
+{"expected": "android-material3-design-system", "prompt": "My team needs material components cleanup before release."}
+{"expected": "android-material3-design-system", "prompt": "We are blocked on adaptive material ui and need a deterministic fix."}
+{"expected": "android-material3-design-system", "prompt": "Use the android-material3-design-system skill for this Android request."}
+{"expected": "android-material3-design-system", "prompt": "This request is about apply material 3 tokens, color, type, spacing, adaptive components, and theme ownership in android apps."}
+{"expected": "android-material3-design-system", "prompt": "What is the best way to approach material3 theme android without drifting into neighboring skills?"}
+{"expected": "android-material3-design-system", "prompt": "I have a messy Android project and need help with design system tokens compose today."}
+{"expected": "android-material3-design-system", "prompt": "Give me the Android-specific checklist for android typography color system."}
+{"expected": "android-compose-performance", "prompt": "I need help with compose performance issue in a large Android codebase."}
+{"expected": "android-compose-performance", "prompt": "Can you handle recomposition too much android for my mobile app?"}
+{"expected": "android-compose-performance", "prompt": "Please review slow lazycolumn compose and give me the right Android workflow."}
+{"expected": "android-compose-performance", "prompt": "My team needs compose startup jank before release."}
+{"expected": "android-compose-performance", "prompt": "We are blocked on measure compose rendering and need a deterministic fix."}
+{"expected": "android-compose-performance", "prompt": "Use the android-compose-performance skill for this Android request."}
+{"expected": "android-compose-performance", "prompt": "This request is about profile and improve compose recomposition, layout, scrolling, startup, and rendering performance in android apps."}
+{"expected": "android-compose-performance", "prompt": "What is the best way to approach compose performance issue without drifting into neighboring skills?"}
+{"expected": "android-compose-performance", "prompt": "I have a messy Android project and need help with recomposition too much android today."}
+{"expected": "android-compose-performance", "prompt": "Give me the Android-specific checklist for slow lazycolumn compose."}
+{"expected": "android-compose-accessibility", "prompt": "I need help with compose accessibility review in a large Android codebase."}
+{"expected": "android-compose-accessibility", "prompt": "Can you handle android semantics issue compose for my mobile app?"}
+{"expected": "android-compose-accessibility", "prompt": "Please review focus order in compose and give me the right Android workflow."}
+{"expected": "android-compose-accessibility", "prompt": "My team needs screen reader compose ui before release."}
+{"expected": "android-compose-accessibility", "prompt": "We are blocked on large font compose problem and need a deterministic fix."}
+{"expected": "android-compose-accessibility", "prompt": "Use the android-compose-accessibility skill for this Android request."}
+{"expected": "android-compose-accessibility", "prompt": "This request is about make compose interfaces accessible with semantics, announcements, contrast, focus order, and adaptive touch targets."}
+{"expected": "android-compose-accessibility", "prompt": "What is the best way to approach compose accessibility review without drifting into neighboring skills?"}
+{"expected": "android-compose-accessibility", "prompt": "I have a messy Android project and need help with android semantics issue compose today."}
+{"expected": "android-compose-accessibility", "prompt": "Give me the Android-specific checklist for focus order in compose."}
+{"expected": "android-viewsystem-foundations", "prompt": "I need help with xml layout android issue in a large Android codebase."}
+{"expected": "android-viewsystem-foundations", "prompt": "Can you handle fragment lifecycle android for my mobile app?"}
+{"expected": "android-viewsystem-foundations", "prompt": "Please review constraintlayout cleanup and give me the right Android workflow."}
+{"expected": "android-viewsystem-foundations", "prompt": "My team needs viewbinding databinding android before release."}
+{"expected": "android-viewsystem-foundations", "prompt": "We are blocked on legacy view system screen and need a deterministic fix."}
+{"expected": "android-viewsystem-foundations", "prompt": "Use the android-viewsystem-foundations skill for this Android request."}
+{"expected": "android-viewsystem-foundations", "prompt": "This request is about handle xml layouts, constraintlayout, fragments, viewbinding, databinding, and classic android ui lifecycle patterns."}
+{"expected": "android-viewsystem-foundations", "prompt": "What is the best way to approach xml layout android issue without drifting into neighboring skills?"}
+{"expected": "android-viewsystem-foundations", "prompt": "I have a messy Android project and need help with fragment lifecycle android today."}
+{"expected": "android-viewsystem-foundations", "prompt": "Give me the Android-specific checklist for constraintlayout cleanup."}
+{"expected": "android-compose-xml-interoperability", "prompt": "I need help with compose in fragment in a large Android codebase."}
+{"expected": "android-compose-xml-interoperability", "prompt": "Can you handle androidview in compose for my mobile app?"}
+{"expected": "android-compose-xml-interoperability", "prompt": "Please review incremental compose migration and give me the right Android workflow."}
+{"expected": "android-compose-xml-interoperability", "prompt": "My team needs mix xml and compose android before release."}
+{"expected": "android-compose-xml-interoperability", "prompt": "We are blocked on interop theme issue and need a deterministic fix."}
+{"expected": "android-compose-xml-interoperability", "prompt": "Use the android-compose-xml-interoperability skill for this Android request."}
+{"expected": "android-compose-xml-interoperability", "prompt": "This request is about bridge compose and the view system safely during incremental migrations, interoperability screens, and shared theming."}
+{"expected": "android-compose-xml-interoperability", "prompt": "What is the best way to approach compose in fragment without drifting into neighboring skills?"}
+{"expected": "android-compose-xml-interoperability", "prompt": "I have a messy Android project and need help with androidview in compose today."}
+{"expected": "android-compose-xml-interoperability", "prompt": "Give me the Android-specific checklist for incremental compose migration."}
+{"expected": "android-room-database", "prompt": "I need help with room database android in a large Android codebase."}
+{"expected": "android-room-database", "prompt": "Can you handle dao query migration android for my mobile app?"}
+{"expected": "android-room-database", "prompt": "Please review room schema export and give me the right Android workflow."}
+{"expected": "android-room-database", "prompt": "My team needs transaction issue room before release."}
+{"expected": "android-room-database", "prompt": "We are blocked on android local database cleanup and need a deterministic fix."}
+{"expected": "android-room-database", "prompt": "Use the android-room-database skill for this Android request."}
+{"expected": "android-room-database", "prompt": "This request is about model room entities, daos, transactions, migrations, schema exports, and test-safe local persistence."}
+{"expected": "android-room-database", "prompt": "What is the best way to approach room database android without drifting into neighboring skills?"}
+{"expected": "android-room-database", "prompt": "I have a messy Android project and need help with dao query migration android today."}
+{"expected": "android-room-database", "prompt": "Give me the Android-specific checklist for room schema export."}
+{"expected": "android-local-persistence-datastore", "prompt": "I need help with android datastore setup in a large Android codebase."}
+{"expected": "android-local-persistence-datastore", "prompt": "Can you handle replace sharedpreferences android for my mobile app?"}
+{"expected": "android-local-persistence-datastore", "prompt": "Please review typed local preferences android and give me the right Android workflow."}
+{"expected": "android-local-persistence-datastore", "prompt": "My team needs datastore migration before release."}
+{"expected": "android-local-persistence-datastore", "prompt": "We are blocked on persist user toggle android and need a deterministic fix."}
+{"expected": "android-local-persistence-datastore", "prompt": "Use the android-local-persistence-datastore skill for this Android request."}
+{"expected": "android-local-persistence-datastore", "prompt": "This request is about persist lightweight user and app preferences with datastore, schema-safe models, and migration-aware defaults."}
+{"expected": "android-local-persistence-datastore", "prompt": "What is the best way to approach android datastore setup without drifting into neighboring skills?"}
+{"expected": "android-local-persistence-datastore", "prompt": "I have a messy Android project and need help with replace sharedpreferences android today."}
+{"expected": "android-local-persistence-datastore", "prompt": "Give me the Android-specific checklist for typed local preferences android."}
+{"expected": "android-networking-retrofit-okhttp", "prompt": "I need help with retrofit android setup in a large Android codebase."}
+{"expected": "android-networking-retrofit-okhttp", "prompt": "Can you handle okhttp interceptor android for my mobile app?"}
+{"expected": "android-networking-retrofit-okhttp", "prompt": "Please review api error mapping android and give me the right Android workflow."}
+{"expected": "android-networking-retrofit-okhttp", "prompt": "My team needs network client cleanup android before release."}
+{"expected": "android-networking-retrofit-okhttp", "prompt": "We are blocked on retry timeout android api and need a deterministic fix."}
+{"expected": "android-networking-retrofit-okhttp", "prompt": "Use the android-networking-retrofit-okhttp skill for this Android request."}
+{"expected": "android-networking-retrofit-okhttp", "prompt": "This request is about build android networking stacks with retrofit, okhttp, interceptors, api contracts, and resilient error handling."}
+{"expected": "android-networking-retrofit-okhttp", "prompt": "What is the best way to approach retrofit android setup without drifting into neighboring skills?"}
+{"expected": "android-networking-retrofit-okhttp", "prompt": "I have a messy Android project and need help with okhttp interceptor android today."}
+{"expected": "android-networking-retrofit-okhttp", "prompt": "Give me the Android-specific checklist for api error mapping android."}
+{"expected": "android-serialization-offline-sync", "prompt": "I need help with offline sync android in a large Android codebase."}
+{"expected": "android-serialization-offline-sync", "prompt": "Can you handle serialization model mapping android for my mobile app?"}
+{"expected": "android-serialization-offline-sync", "prompt": "Please review conflict resolution android cache and give me the right Android workflow."}
+{"expected": "android-serialization-offline-sync", "prompt": "My team needs sync queue android app before release."}
+{"expected": "android-serialization-offline-sync", "prompt": "We are blocked on json model migration android and need a deterministic fix."}
+{"expected": "android-serialization-offline-sync", "prompt": "Use the android-serialization-offline-sync skill for this Android request."}
+{"expected": "android-serialization-offline-sync", "prompt": "This request is about coordinate serialization, caching, conflict handling, and offline-first sync flows in android apps."}
+{"expected": "android-serialization-offline-sync", "prompt": "What is the best way to approach offline sync android without drifting into neighboring skills?"}
+{"expected": "android-serialization-offline-sync", "prompt": "I have a messy Android project and need help with serialization model mapping android today."}
+{"expected": "android-serialization-offline-sync", "prompt": "Give me the Android-specific checklist for conflict resolution android cache."}
+{"expected": "android-media-files-sharing", "prompt": "I need help with android file sharing in a large Android codebase."}
+{"expected": "android-media-files-sharing", "prompt": "Can you handle photo picker android app for my mobile app?"}
+{"expected": "android-media-files-sharing", "prompt": "Please review fileprovider setup android and give me the right Android workflow."}
+{"expected": "android-media-files-sharing", "prompt": "My team needs share pdf image android before release."}
+{"expected": "android-media-files-sharing", "prompt": "We are blocked on media attachment android flow and need a deterministic fix."}
+{"expected": "android-media-files-sharing", "prompt": "Use the android-media-files-sharing skill for this Android request."}
+{"expected": "android-media-files-sharing", "prompt": "This request is about use modern android file, media, picker, fileprovider, and share-sheet apis with minimal permissions."}
+{"expected": "android-media-files-sharing", "prompt": "What is the best way to approach android file sharing without drifting into neighboring skills?"}
+{"expected": "android-media-files-sharing", "prompt": "I have a messy Android project and need help with photo picker android app today."}
+{"expected": "android-media-files-sharing", "prompt": "Give me the Android-specific checklist for fileprovider setup android."}
+{"expected": "android-workmanager-notifications", "prompt": "I need help with android workmanager job in a large Android codebase."}
+{"expected": "android-workmanager-notifications", "prompt": "Can you handle background reminder notification android for my mobile app?"}
+{"expected": "android-workmanager-notifications", "prompt": "Please review reliable retry workmanager and give me the right Android workflow."}
+{"expected": "android-workmanager-notifications", "prompt": "My team needs periodic work android app before release."}
+{"expected": "android-workmanager-notifications", "prompt": "We are blocked on notification scheduling android and need a deterministic fix."}
+{"expected": "android-workmanager-notifications", "prompt": "Use the android-workmanager-notifications skill for this Android request."}
+{"expected": "android-workmanager-notifications", "prompt": "This request is about schedule reliable background work, reminders, and notification delivery with workmanager and android execution limits."}
+{"expected": "android-workmanager-notifications", "prompt": "What is the best way to approach android workmanager job without drifting into neighboring skills?"}
+{"expected": "android-workmanager-notifications", "prompt": "I have a messy Android project and need help with background reminder notification android today."}
+{"expected": "android-workmanager-notifications", "prompt": "Give me the Android-specific checklist for reliable retry workmanager."}
+{"expected": "android-security-best-practices", "prompt": "I need help with android security review in a large Android codebase."}
+{"expected": "android-security-best-practices", "prompt": "Can you handle secret handling android app for my mobile app?"}
+{"expected": "android-security-best-practices", "prompt": "Please review exported component security android and give me the right Android workflow."}
+{"expected": "android-security-best-practices", "prompt": "My team needs network security config android before release."}
+{"expected": "android-security-best-practices", "prompt": "We are blocked on hardening android project and need a deterministic fix."}
+{"expected": "android-security-best-practices", "prompt": "Use the android-security-best-practices skill for this Android request."}
+{"expected": "android-security-best-practices", "prompt": "This request is about apply android app security guidance around secrets, storage, network trust, exported components, and least privilege."}
+{"expected": "android-security-best-practices", "prompt": "What is the best way to approach android security review without drifting into neighboring skills?"}
+{"expected": "android-security-best-practices", "prompt": "I have a messy Android project and need help with secret handling android app today."}
+{"expected": "android-security-best-practices", "prompt": "Give me the Android-specific checklist for exported component security android."}
+{"expected": "android-performance-observability", "prompt": "I need help with android performance profiling in a large Android codebase."}
+{"expected": "android-performance-observability", "prompt": "Can you handle baseline profile or macrobenchmark for my mobile app?"}
+{"expected": "android-performance-observability", "prompt": "Please review app startup issue android and give me the right Android workflow."}
+{"expected": "android-performance-observability", "prompt": "My team needs observability for android app before release."}
+{"expected": "android-performance-observability", "prompt": "We are blocked on trace jank crash android and need a deterministic fix."}
+{"expected": "android-performance-observability", "prompt": "Use the android-performance-observability skill for this Android request."}
+{"expected": "android-performance-observability", "prompt": "This request is about measure startup, rendering, memory, jank, vitals, logs, and crash signals for android apps with actionable traces."}
+{"expected": "android-performance-observability", "prompt": "What is the best way to approach android performance profiling without drifting into neighboring skills?"}
+{"expected": "android-performance-observability", "prompt": "I have a messy Android project and need help with baseline profile or macrobenchmark today."}
+{"expected": "android-performance-observability", "prompt": "Give me the Android-specific checklist for app startup issue android."}
+{"expected": "android-testing-unit", "prompt": "I need help with android unit test strategy in a large Android codebase."}
+{"expected": "android-testing-unit", "prompt": "Can you handle test viewmodel reducer android for my mobile app?"}
+{"expected": "android-testing-unit", "prompt": "Please review repository unit tests android and give me the right Android workflow."}
+{"expected": "android-testing-unit", "prompt": "My team needs mock coroutine dependency android before release."}
+{"expected": "android-testing-unit", "prompt": "We are blocked on fast test coverage android and need a deterministic fix."}
+{"expected": "android-testing-unit", "prompt": "Use the android-testing-unit skill for this Android request."}
+{"expected": "android-testing-unit", "prompt": "This request is about write fast, focused android unit tests for reducers, use cases, repositories, and lifecycle-safe state holders."}
+{"expected": "android-testing-unit", "prompt": "What is the best way to approach android unit test strategy without drifting into neighboring skills?"}
+{"expected": "android-testing-unit", "prompt": "I have a messy Android project and need help with test viewmodel reducer android today."}
+{"expected": "android-testing-unit", "prompt": "Give me the Android-specific checklist for repository unit tests android."}
+{"expected": "android-testing-ui", "prompt": "I need help with android ui test in a large Android codebase."}
+{"expected": "android-testing-ui", "prompt": "Can you handle compose ui test screen for my mobile app?"}
+{"expected": "android-testing-ui", "prompt": "Please review espresso validation android and give me the right Android workflow."}
+{"expected": "android-testing-ui", "prompt": "My team needs instrumentation test android flow before release."}
+{"expected": "android-testing-ui", "prompt": "We are blocked on accessibility assertions android ui and need a deterministic fix."}
+{"expected": "android-testing-ui", "prompt": "Use the android-testing-ui skill for this Android request."}
+{"expected": "android-testing-ui", "prompt": "This request is about validate android ui behavior with compose ui tests, espresso-style checks, accessibility assertions, and state coverage."}
+{"expected": "android-testing-ui", "prompt": "What is the best way to approach android ui test without drifting into neighboring skills?"}
+{"expected": "android-testing-ui", "prompt": "I have a messy Android project and need help with compose ui test screen today."}
+{"expected": "android-testing-ui", "prompt": "Give me the Android-specific checklist for espresso validation android."}
+{"expected": "android-ci-cd-release-playstore", "prompt": "I need help with android ci cd pipeline in a large Android codebase."}
+{"expected": "android-ci-cd-release-playstore", "prompt": "Can you handle play store release automation for my mobile app?"}
+{"expected": "android-ci-cd-release-playstore", "prompt": "Please review android signing and release and give me the right Android workflow."}
+{"expected": "android-ci-cd-release-playstore", "prompt": "My team needs canary stable release android before release."}
+{"expected": "android-ci-cd-release-playstore", "prompt": "We are blocked on github actions android build and need a deterministic fix."}
+{"expected": "android-ci-cd-release-playstore", "prompt": "Use the android-ci-cd-release-playstore skill for this Android request."}
+{"expected": "android-ci-cd-release-playstore", "prompt": "This request is about automate android ci, versioning, signing boundaries, release channels, and play-ready delivery workflows."}
+{"expected": "android-ci-cd-release-playstore", "prompt": "What is the best way to approach android ci cd pipeline without drifting into neighboring skills?"}
+{"expected": "android-ci-cd-release-playstore", "prompt": "I have a messy Android project and need help with play store release automation today."}
+{"expected": "android-ci-cd-release-playstore", "prompt": "Give me the Android-specific checklist for android signing and release."}
+{"expected": "android-modernization-upgrade", "prompt": "I need help with upgrade old android project in a large Android codebase."}
+{"expected": "android-modernization-upgrade", "prompt": "Can you handle fix android build after agp or kotlin bump for my mobile app?"}
+{"expected": "android-modernization-upgrade", "prompt": "Please review replace deprecated android classes and give me the right Android workflow."}
+{"expected": "android-modernization-upgrade", "prompt": "My team needs androidx migration and modernization before release."}
+{"expected": "android-modernization-upgrade", "prompt": "We are blocked on 16 kb alignment android app and need a deterministic fix."}
+{"expected": "android-modernization-upgrade", "prompt": "Use the android-modernization-upgrade skill for this Android request."}
+{"expected": "android-modernization-upgrade", "prompt": "This request is about bring very old android projects to a current supported baseline with staged upgrades, deprecated api replacement, 16 kb alignment checks, and explicit handoff to specialized skills."}
+{"expected": "android-modernization-upgrade", "prompt": "What is the best way to approach upgrade old android project without drifting into neighboring skills?"}
+{"expected": "android-modernization-upgrade", "prompt": "I have a messy Android project and need help with fix android build after agp or kotlin bump today."}
+{"expected": "android-modernization-upgrade", "prompt": "Give me the Android-specific checklist for replace deprecated android classes."}

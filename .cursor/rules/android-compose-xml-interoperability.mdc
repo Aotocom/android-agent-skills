@@ -1,0 +1,9 @@
+---
+description: Bridge Compose and the View system safely during incremental migrations, interoperability screens, and shared theming.
+alwaysApply: false
+---
+
+# android-compose-xml-interoperability
+
+Activate when the request is about compose in fragment, androidview in compose, incremental compose migration.
+Read `skills/android-compose-xml-interoperability/SKILL.md` for the canonical workflow.

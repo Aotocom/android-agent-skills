@@ -1,0 +1,9 @@
+---
+description: Use Kotlin idioms safely in Android apps, including nullability, data classes, sealed types, extension functions, and collection pipelines.
+alwaysApply: false
+---
+
+# android-kotlin-core
+
+Activate when the request is about kotlin cleanup in android app, convert verbose android java-style kotlin, sealed classes for ui state.
+Read `skills/android-kotlin-core/SKILL.md` for the canonical workflow.

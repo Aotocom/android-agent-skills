@@ -1,0 +1,4 @@
+interface:
+  display_name: "Android Compose Accessibility"
+  short_description: "Make Compose interfaces accessible with semantics, announcements, contrast, focus order, and adaptive touch targets"
+  default_prompt: "Use $android-compose-accessibility when the request is about make Compose interfaces accessible with semantics, announcements, contrast, focus order, and adaptive touch targets."

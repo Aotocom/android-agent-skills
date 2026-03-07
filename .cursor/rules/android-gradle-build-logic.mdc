@@ -1,0 +1,9 @@
+---
+description: Shape Android build logic with Gradle, version catalogs, plugins, convention patterns, and toolchain compatibility.
+alwaysApply: false
+---
+
+# android-gradle-build-logic
+
+Activate when the request is about android gradle plugin setup, fix build logic for android modules, version catalog for android repo.
+Read `skills/android-gradle-build-logic/SKILL.md` for the canonical workflow.

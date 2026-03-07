@@ -1,0 +1,4 @@
+interface:
+  display_name: "Android Compose State Effects"
+  short_description: "Manage Compose state, remember APIs, side effects, snapshots, and lifecycle-aware collection without leaks or loops"
+  default_prompt: "Use $android-compose-state-effects when the request is about manage Compose state, remember APIs, side effects, snapshots, and lifecycle-aware collection without leaks or loops."

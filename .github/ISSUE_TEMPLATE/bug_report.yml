@@ -1,0 +1,37 @@
+name: Bug report
+description: Report a broken skill, adapter, install flow, or validation path.
+title: "[bug] "
+labels:
+  - bug
+body:
+  - type: textarea
+    id: summary
+    attributes:
+      label: What broke
+      description: Describe the problem and the expected behavior.
+      placeholder: validate_repo.py passes locally but fails in CI on packaging-smoke
+    validations:
+      required: true
+  - type: textarea
+    id: reproduction
+    attributes:
+      label: Reproduction
+      description: Include the exact commands, prompts, or file paths needed to reproduce.
+      placeholder: |
+        1. Run ./scripts/install.sh --agent claude --scope project --skill all
+        2. Open the generated .claude/agents directory
+        3. Observe ...
+    validations:
+      required: true
+  - type: textarea
+    id: environment
+    attributes:
+      label: Environment
+      description: Share OS, Python, Java, Android SDK, and agent versions if relevant.
+      placeholder: macOS 15, Python 3.11, Java 17, Android SDK 36, Claude Code 2.1.50
+  - type: textarea
+    id: logs
+    attributes:
+      label: Logs or screenshots
+      description: Paste the shortest useful output that proves the failure.
+

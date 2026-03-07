@@ -1,0 +1,118 @@
+{
+  "android-architecture-clean": [
+    "android-modularization",
+    "android-state-management"
+  ],
+  "android-ci-cd-release-playstore": [
+    "android-gradle-build-logic",
+    "android-security-best-practices"
+  ],
+  "android-compose-accessibility": [
+    "android-ui-states-validation",
+    "android-testing-ui"
+  ],
+  "android-compose-foundations": [
+    "android-compose-state-effects",
+    "android-material3-design-system"
+  ],
+  "android-compose-performance": [
+    "android-performance-observability",
+    "android-testing-ui"
+  ],
+  "android-compose-state-effects": [
+    "android-state-management",
+    "android-compose-performance"
+  ],
+  "android-compose-xml-interoperability": [
+    "android-viewsystem-foundations",
+    "android-compose-foundations"
+  ],
+  "android-coroutines-flow": [
+    "android-state-management",
+    "android-workmanager-notifications"
+  ],
+  "android-di-hilt": [
+    "android-testing-unit",
+    "android-networking-retrofit-okhttp"
+  ],
+  "android-gradle-build-logic": [
+    "android-modernization-upgrade",
+    "android-ci-cd-release-playstore"
+  ],
+  "android-kotlin-core": [
+    "android-state-management",
+    "android-testing-unit"
+  ],
+  "android-local-persistence-datastore": [
+    "android-room-database",
+    "android-modernization-upgrade"
+  ],
+  "android-material3-design-system": [
+    "android-compose-foundations",
+    "android-compose-accessibility"
+  ],
+  "android-media-files-sharing": [
+    "android-permissions-activity-results",
+    "android-security-best-practices"
+  ],
+  "android-modernization-upgrade": [
+    "android-gradle-build-logic",
+    "android-viewsystem-foundations"
+  ],
+  "android-modularization": [
+    "android-gradle-build-logic",
+    "android-architecture-clean"
+  ],
+  "android-navigation-deeplinks": [
+    "android-permissions-activity-results",
+    "android-testing-ui"
+  ],
+  "android-networking-retrofit-okhttp": [
+    "android-serialization-offline-sync",
+    "android-security-best-practices"
+  ],
+  "android-performance-observability": [
+    "android-compose-performance",
+    "android-ci-cd-release-playstore"
+  ],
+  "android-permissions-activity-results": [
+    "android-media-files-sharing",
+    "android-testing-ui"
+  ],
+  "android-room-database": [
+    "android-local-persistence-datastore",
+    "android-testing-unit"
+  ],
+  "android-security-best-practices": [
+    "android-modernization-upgrade",
+    "android-ci-cd-release-playstore"
+  ],
+  "android-serialization-offline-sync": [
+    "android-networking-retrofit-okhttp",
+    "android-room-database"
+  ],
+  "android-state-management": [
+    "android-coroutines-flow",
+    "android-ui-states-validation"
+  ],
+  "android-testing-ui": [
+    "android-compose-accessibility",
+    "android-ui-states-validation"
+  ],
+  "android-testing-unit": [
+    "android-testing-ui",
+    "android-ui-states-validation"
+  ],
+  "android-ui-states-validation": [
+    "android-compose-accessibility",
+    "android-testing-ui"
+  ],
+  "android-viewsystem-foundations": [
+    "android-compose-xml-interoperability",
+    "android-testing-ui"
+  ],
+  "android-workmanager-notifications": [
+    "android-permissions-activity-results",
+    "android-performance-observability"
+  ]
+}

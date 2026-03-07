@@ -1,0 +1,9 @@
+---
+description: Persist lightweight user and app preferences with DataStore, schema-safe models, and migration-aware defaults.
+alwaysApply: false
+---
+
+# android-local-persistence-datastore
+
+Activate when the request is about android datastore setup, replace sharedpreferences android, typed local preferences android.
+Read `skills/android-local-persistence-datastore/SKILL.md` for the canonical workflow.

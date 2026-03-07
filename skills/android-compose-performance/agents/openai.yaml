@@ -1,0 +1,4 @@
+interface:
+  display_name: "Android Compose Performance"
+  short_description: "Profile and improve Compose recomposition, layout, scrolling, startup, and rendering performance in Android apps"
+  default_prompt: "Use $android-compose-performance when the request is about profile and improve Compose recomposition, layout, scrolling, startup, and rendering performance in Android apps."
