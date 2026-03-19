@@ -1,9 +1,0 @@
----
-description: Write fast, focused Android unit tests for reducers, use cases, repositories, and lifecycle-safe state holders.
-alwaysApply: false
----
-
-# android-testing-unit
-
-Activate when the request is about android unit test strategy, test viewmodel reducer android, repository unit tests android.
-Read `skills/android-testing-unit/SKILL.md` for the canonical workflow.

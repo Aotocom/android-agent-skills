@@ -1,9 +1,0 @@
----
-description: Coordinate serialization, caching, conflict handling, and offline-first sync flows in Android apps.
-alwaysApply: false
----
-
-# android-serialization-offline-sync
-
-Activate when the request is about offline sync android, serialization model mapping android, conflict resolution android cache.
-Read `skills/android-serialization-offline-sync/SKILL.md` for the canonical workflow.

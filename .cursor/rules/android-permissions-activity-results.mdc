@@ -1,9 +1,0 @@
----
-description: Use modern permission requests, Activity Result APIs, and capability-gated UX in Android flows.
-alwaysApply: false
----
-
-# android-permissions-activity-results
-
-Activate when the request is about android permission request flow, activity result api android, camera permission in android app.
-Read `skills/android-permissions-activity-results/SKILL.md` for the canonical workflow.

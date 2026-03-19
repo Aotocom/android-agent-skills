@@ -1,9 +1,0 @@
----
-description: Validate Android UI behavior with Compose UI tests, Espresso-style checks, accessibility assertions, and state coverage.
-alwaysApply: false
----
-
-# android-testing-ui
-
-Activate when the request is about android ui test, compose ui test screen, espresso validation android.
-Read `skills/android-testing-ui/SKILL.md` for the canonical workflow.

@@ -1,9 +1,0 @@
----
-description: Apply Android app security guidance around secrets, storage, network trust, exported components, and least privilege.
-alwaysApply: false
----
-
-# android-security-best-practices
-
-Activate when the request is about android security review, secret handling android app, exported component security android.
-Read `skills/android-security-best-practices/SKILL.md` for the canonical workflow.

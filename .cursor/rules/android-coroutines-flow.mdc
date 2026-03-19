@@ -1,9 +1,0 @@
----
-description: Use coroutines, Flow, structured concurrency, dispatchers, and cancellation-safe Android async pipelines.
-alwaysApply: false
----
-
-# android-coroutines-flow
-
-Activate when the request is about android flow collection, fix coroutine scope in android, structured concurrency in viewmodel.
-Read `skills/android-coroutines-flow/SKILL.md` for the canonical workflow.

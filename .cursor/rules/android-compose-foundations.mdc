@@ -1,9 +1,0 @@
----
-description: Build Android UI with Jetpack Compose foundations, layouts, modifiers, theming, and stable component structure.
-alwaysApply: false
----
-
-# android-compose-foundations
-
-Activate when the request is about jetpack compose screen, compose layout in android, modifier cleanup compose.
-Read `skills/android-compose-foundations/SKILL.md` for the canonical workflow.

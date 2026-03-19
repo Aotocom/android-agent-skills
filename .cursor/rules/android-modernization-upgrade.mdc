@@ -1,9 +1,0 @@
----
-description: Bring very old Android projects to a current supported baseline with staged upgrades, deprecated API replacement, 16 KB alignment checks, and explicit handoff to specialized skills.
-alwaysApply: false
----
-
-# android-modernization-upgrade
-
-Activate when the request is about upgrade old android project, fix android build after agp or kotlin bump, replace deprecated android classes.
-Read `skills/android-modernization-upgrade/SKILL.md` for the canonical workflow.

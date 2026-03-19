@@ -1,9 +1,0 @@
----
-description: Automate Android CI, versioning, signing boundaries, release channels, and Play-ready delivery workflows.
-alwaysApply: false
----
-
-# android-ci-cd-release-playstore
-
-Activate when the request is about android ci cd pipeline, play store release automation, android signing and release.
-Read `skills/android-ci-cd-release-playstore/SKILL.md` for the canonical workflow.

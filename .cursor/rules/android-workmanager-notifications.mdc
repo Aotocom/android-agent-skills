@@ -1,9 +1,0 @@
----
-description: Schedule reliable background work, reminders, and notification delivery with WorkManager and Android execution limits.
-alwaysApply: false
----
-
-# android-workmanager-notifications
-
-Activate when the request is about android workmanager job, background reminder notification android, reliable retry workmanager.
-Read `skills/android-workmanager-notifications/SKILL.md` for the canonical workflow.

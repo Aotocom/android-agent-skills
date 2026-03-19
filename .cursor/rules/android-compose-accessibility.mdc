@@ -1,9 +1,0 @@
----
-description: Make Compose interfaces accessible with semantics, announcements, contrast, focus order, and adaptive touch targets.
-alwaysApply: false
----
-
-# android-compose-accessibility
-
-Activate when the request is about compose accessibility review, android semantics issue compose, focus order in compose.
-Read `skills/android-compose-accessibility/SKILL.md` for the canonical workflow.
